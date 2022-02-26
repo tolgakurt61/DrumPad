@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DrumPad</string>
+    <string name="hello_world">Hello world!</string>
+
+       <string name="choose_format_title">Ses Formatını Seçiniz</string>
+    <string name="start_recording">Kayıt</string>
+    <string name="stop_recording">Durdur</string>
+    <string name="audio_format">Format</string>
+
+</resources>
